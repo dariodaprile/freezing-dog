@@ -1,3 +1,5 @@
 # default is  "World"
-ame = ARGV.first || "World"
+# second inetentional comment
+
+name = ARGV.first || "World"
 puts "hello, #{name}!"
