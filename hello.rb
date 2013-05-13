@@ -1,1 +1,1 @@
-puts 'hey makers'
+puts 'hello, #{ARGV.first}!'
